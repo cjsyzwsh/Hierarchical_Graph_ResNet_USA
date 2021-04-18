@@ -1,2 +1,3 @@
 # Hierarchical_Graph_ResNet_USA
-Exploring the hierarchical graph network for geospatial modeling
+Exploring the hierarchical graph network for geospatial modeling.
+Using the general US data set. 
