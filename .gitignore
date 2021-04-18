@@ -2,3 +2,4 @@
 /data/processed_large_data
 /data/raw_data
 /process
+*.DS_Store
